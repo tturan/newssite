@@ -1,0 +1,95 @@
+/*custom css here*/
+
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: Times, Arial, serif;
+  font-size: 14px;
+  color: #000;
+  background-color: #DAFFE4;
+}
+
+.heading {
+  background-color: inherit;
+  width:100%;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  margin-bottom: 25px;
+  background-image: url(../img/header1.jpg);
+  border-bottom: 2px solid #AEFFC4;
+}
+
+.footer {
+  color: #000;
+  font-style: italic;
+  margin-top: 50px;
+}
+
+.box {
+  background-color: #ccc;
+  padding: 10px;
+  margin-bottom: 25px;
+  border: 1px solid #000;
+}
+
+.box img{
+  border: 1px solid #000;
+}
+
+.box a.read-more {
+  display:block;
+  margin-top: 5px;
+  padding-top: 10px;
+  border-top: 1px solid #000;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+img{
+  width: 100%;
+}
+
+h1{
+  color: #AEFFC4;
+  text-shadow: 2px 2px #FFBCFE;
+}
+
+h1 big{
+  color: #FFBCFE;
+  text-shadow: 2px 2px #AEFFC4;
+  font-size: 70px;
+}
+
+h2 {
+  padding: 5px;
+}
+
+h3 {
+  padding: 5px;
+}
+
+h4 {
+  padding: 5px;
+}
+
+h5 {
+  padding: 5px;
+}
+
+h6 {
+  padding: 5px;
+}
+
+p{
+  padding: 5px;
+}
